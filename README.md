@@ -2,7 +2,7 @@
 
 Your images have `<figcaption>` elements attached.
 
-[![travis](https://travis-ci.org/bcaller/markdown-figure-caption.svg)](https://travis-ci.org/bcaller/markdown-figure-caption)
+[![travis](https://travis-ci.com/bcaller/markdown-figure-caption.svg)](https://travis-ci.com/bcaller/markdown-figure-caption)
 [![PyPI version](https://badge.fury.io/py/markdown-figure-caption.svg)](https://badge.fury.io/py/markdown-figure-caption)
 
 Very similar to [figureAltCaption](https://github.com/jdittrich/figureAltCaption). This version doesn' handle references or attributes, but does handle links inside the caption.
